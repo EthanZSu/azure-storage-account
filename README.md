@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/EthanZSu/azure-storage-account/assets/168872181/3aae1f12-4bb5-4998-b1ea-255cb66e6210"80%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First, a resource group must be made to place the storage account in.
+First, a new resource group must be made where the storage account will be placed  in.
 Also select which subscription account to place the resource group under.
 And pick which geographic region you want the resource group in.
 </p>
