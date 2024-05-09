@@ -60,7 +60,7 @@ Create the resource group.
 <br />
 
 <p>
-<img src="https://github.com/EthanZSu/azure-storage-account/assets/168872181/1bdd7c6e-758c-41ca-a3b4-c317e8fcb06f" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/EthanZSu/azure-storage-account/assets/168872181/38f3c83a-a1b8-4c56-860d-d6052efed8e9" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the top center search bar, search for: storage account. 
