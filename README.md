@@ -89,7 +89,11 @@ Create the storage account.
 <p>
 In the top search bar search for: storage account.
   <br />
+Select the storage account you made.
+  <br />
 On the left menu, scroll down & select "containers".
+  <br />
+Click the: blue plus - Container button.
   <br />
 Give your container a unique name & create it.
 </p>
@@ -99,6 +103,8 @@ Give your container a unique name & create it.
 <img src="https://github.com/EthanZSu/azure-storage-account/assets/168872181/5ea6483b-77c8-46e6-a45a-2e40209d6e99" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Select the container you made.
+  <br />
 Select the top upload button.
   <br />
 On the right, you can select files from your computer.
