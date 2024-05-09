@@ -11,7 +11,7 @@ This tutorial outlines the prerequisites, installation, and use of the storage a
 
 - ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
-<h2>Environments and Technologies Used</h2>
+<h2>Technologies Used</h2>
 
 - Microsoft Azure
 
@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites, installation, and use of the storage a
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Prerequisites List</h2>
 
 - Subscription to Microsoft Azure.
 
