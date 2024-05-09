@@ -93,6 +93,8 @@ Give your container a unique name & create it.
 </p>
 <br />
 
+<h2>File Upload Steps</h2>
+
 <p>
 <img src="https://github.com/EthanZSu/azure-storage-account/assets/168872181/5ea6483b-77c8-46e6-a45a-2e40209d6e99" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
