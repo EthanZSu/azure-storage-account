@@ -19,6 +19,13 @@ This tutorial outlines the prerequisites, installation, and use of the storage a
 
 - Windows 10</b> (21H2)
 
+<h2> Overview of Main Steps:</h2>
+-Step 1: Make a resource group.
+    <br />
+-Step 2: Make a storage account & a container.
+    <br />
+-Step 3: Upload & access the file in the container.
+
 <h2>Prerequisites List</h2>
 
 - Subscription to Microsoft Azure.
