@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/8eca2b6e-f70f-45cf-9129-637e7690baeb" height="40%" width="40%" alt="osTicket logo"/>
 </p>
 
-This tutorial outlines the prerequisites, installation, and use of the storage account service in Microsoft Azure.<br />
+This tutorial outlines the installation and use of the storage account service in Microsoft Azure.<br />
 
 
 <h2>Technologies Used</h2>
