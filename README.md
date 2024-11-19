@@ -1,4 +1,4 @@
-# Azure Storage Account
+# Azure Storage Account Creation
 <p align="center">
 <img src="https://github.com/user-attachments/assets/8eca2b6e-f70f-45cf-9129-637e7690baeb" height="40%" width="40%" alt="osTicket logo"/>
 </p>
