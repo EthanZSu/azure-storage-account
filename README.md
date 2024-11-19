@@ -136,23 +136,6 @@ ________________________________________________________________________________
 
 
 <p>
-<img src="https://github.com/EthanZSu/azure-storage-account/assets/168872181/0784bee4-c473-4638-85a2-358b1bb47f50" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-To access what you just uploaded:
-   <br />
-On the left menu scroll down and select "containers" again.
-   <br />
-On the right, select the container you just placed a file in.  
-</p>
-________________________________________________________________________________________________________________________
-<br />
-<br />
-<br />
-<br />
-
-
-<p>
 <img src="https://github.com/EthanZSu/azure-storage-account/assets/168872181/3f39fe62-679b-4bf8-8355-9f5d0a7a3b03" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
