@@ -126,8 +126,6 @@ Select the top upload button.
   <br />
 On the right, you can select files from your computer.
   <br />
-Then select a container to place the files in.
-  <br />
 Finally upload.
 </p>
 ________________________________________________________________________________________________________________________
