@@ -1,6 +1,6 @@
 # Azure Storage Account
 <p align="center">
-<img src="https://github.com/EthanZSu/azure-storage-account/assets/168872181/234b2210-4edd-4a79-a0da-f9967919a271" alt="osTicket logo"/>
+<img src="https://github.com/user-attachments/assets/8eca2b6e-f70f-45cf-9129-637e7690baeb" alt="osTicket logo"/>
 </p>
 
 <h1> Azure Storage Account </h1>
