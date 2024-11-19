@@ -1,34 +1,22 @@
 # Azure Storage Account
 <p align="center">
-<img src="https://github.com/user-attachments/assets/8eca2b6e-f70f-45cf-9129-637e7690baeb" alt="osTicket logo"/>
+<img src="https://github.com/user-attachments/assets/8eca2b6e-f70f-45cf-9129-637e7690baeb" height="40%" width="40%" alt="osTicket logo"/>
 </p>
 
-<h1> Azure Storage Account </h1>
 This tutorial outlines the prerequisites, installation, and use of the storage account service in Microsoft Azure.<br />
 
-
-<h2>??? Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Technologies Used</h2>
 
 - Microsoft Azure
 
-<h2>??? Operating Systems Used </h2>
-
-- Windows 10</b> (21H2)
 
 <h2> Overview of Main Steps:</h2>
--Step 1: Make a resource group.
-    <br />
--Step 2: Make a storage account & a container.
-    <br />
--Step 3: Upload & access the file in the container.
 
-<h2>Prerequisites List</h2>
+- Step 1: Make a resource group.
+- Step 2: Make a storage account & a container.
+- Step 3: Upload & access the file in the container.
 
-- Subscription to Microsoft Azure.
 
 <h2>Installation Steps</h2>
 
