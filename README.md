@@ -79,7 +79,7 @@ ________________________________________________________________________________
 <img src="https://github.com/EthanZSu/azure-storage-account/assets/168872181/586b3b40-7db0-4883-aac2-5c893110e3ba" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Select which subscription account, resource group, and geographic region you want your storage account placed in.
+Select which subscription account, the prior resource group just made, and which geographic region you want your storage account placed in.
    <br />
 Give your storage account a unique name.
    <br />
@@ -102,7 +102,7 @@ In the top search bar search for: storage account.
   <br />
 Select the storage account you made.
   <br />
-On the left menu, scroll down & select "containers".
+On the left menu, search for or select "containers".
   <br />
 Click the: blue plus - Container button.
   <br />
