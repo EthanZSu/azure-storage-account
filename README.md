@@ -1,4 +1,4 @@
-# Azure-Storage-Account
+# Azure Storage Account
 <p align="center">
 <img src="https://github.com/EthanZSu/azure-storage-account/assets/168872181/234b2210-4edd-4a79-a0da-f9967919a271" alt="osTicket logo"/>
 </p>
